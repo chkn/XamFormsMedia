@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamFormsMedia", "XamFormsMedia.csproj", "{9D4F6E73-39D1-45FF-BA7D-104E5413B0F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamFormsMedia.iOS", "XamFormsMedia.iOS\XamFormsMedia.iOS.csproj", "{357005D8-8039-48A3-8F8E-2CC23CF48155}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{357005D8-8039-48A3-8F8E-2CC23CF48155}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{357005D8-8039-48A3-8F8E-2CC23CF48155}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{357005D8-8039-48A3-8F8E-2CC23CF48155}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{357005D8-8039-48A3-8F8E-2CC23CF48155}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D4F6E73-39D1-45FF-BA7D-104E5413B0F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D4F6E73-39D1-45FF-BA7D-104E5413B0F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D4F6E73-39D1-45FF-BA7D-104E5413B0F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D4F6E73-39D1-45FF-BA7D-104E5413B0F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
